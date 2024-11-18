@@ -34,4 +34,7 @@ O TrenSpot é uma plataforma web que auxilia passageiros a se localizarem no met
 
 ### 📸 Acompanhe no Instagram: [@trenspot3](https://www.instagram.com/trenspot3/)
 
+### Conheça também: [Candeia](https://github.com/Candeia3)
+<a href="https://github.com/Candeia3" target="_blank"><img src="https://avatars.githubusercontent.com/u/188801138?s=200&v=4" alt="Candeia" height="75" style="border-radius: 25px;"></a>
+
 ## **TrenSpot - Todos a bordo da inovação!** 🚉 
