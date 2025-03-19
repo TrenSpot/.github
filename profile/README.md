@@ -10,7 +10,7 @@ Desenvolvido por estudantes de **Análise e Desenvolvimento de Sistemas** na [FI
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-carlos-soares/" target="_blank"><img src="https://avatars.githubusercontent.com/u/122658439?v=4" alt="Bruno" height="150px"></a>
   <a href="https://www.linkedin.com/in/flavio-felinto/" target="_blank"><img src="https://avatars.githubusercontent.com/u/177592880?v=4" alt="Flávio" height="150px"></a>
-  <a href="https://www.linkedin.com/in/vinicius-rodrigues-tecnologia/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4E03AQHZOQRqiJdsgA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1614824391433?e=1737590400&v=beta&t=pFjWFEZ2MQHLnKv1UdxQ6s8ejB4XyeEwlbhR037kViU" alt="Vinicius" height="150px"></a>
+  <a href="https://www.linkedin.com/in/vinicius-rodrigues-tecnologia/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4E03AQHZOQRqiJdsgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1614824391433?e=1747872000&v=beta&t=4UacaUZL4EyE0YuIDNk6N5y1gu3GSCrO0bsPeQZv3xk" alt="Vinicius" height="150px"></a>
 </div>
 
 ---
